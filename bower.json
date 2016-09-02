@@ -1,0 +1,37 @@
+{
+    "org": "L2jBrasil",
+    "name": "vote-for-reward",
+    "description": "Vote For Reward System : Sistema de recompensa por votação",
+    "keywords": ["l2jbrasil","l2j", "lineage2", "vote-for-reward"],
+    "version": "0.0.1",
+    "license": [
+        "LGPL-2.1",
+        "GPL-3.0+"
+    ],
+    "authors": "https://github.com/L2jBrasil/vote-for-reward/graphs/contributors",
+    "support": {
+        "issues": "https://github.com/L2jBrasil/vote-for-reward/issues"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "./lib/.bower_components",
+        "test",
+        "tests"
+    ],
+    "private": true,
+    "dependencies": {
+        "angular": "~1.5.0",
+        "angular-loader": "~1.5.0",
+        "angular-mocks": "~1.5.0",
+        "angular-animate": "~1.5.0",
+        "angular-sanitize": "~1.5.0",
+        "angular-ui-router": "~0.3.1",
+        "angular-ui-bootstrap": "~2.1.2",
+        "ui-leaflet": "^1.0.0",
+        "material-design-lite": "~1.2.0",
+        "dialog-polyfill": "~0.4.0",
+        "angular-material": "~1.1.0"
+    }
+}

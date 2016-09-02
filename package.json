@@ -1,0 +1,15 @@
+{
+    "org": "L2jBrasil",
+    "name": "vote-for-reward",
+    "description": "Vote For Reward System : Sistema de recompensa por votação",
+    "keywords": ["l2jbrasil","l2j", "lineage2", "vote-for-reward"],
+    "version": "0.0.1",
+    "license": [
+        "LGPL-2.1",
+        "GPL-3.0+"
+    ],
+    "authors": "https://github.com/L2jBrasil/vote-for-reward/graphs/contributors",
+    "devDependencies": {
+        "bower": "^1.7.7"
+    }
+}
