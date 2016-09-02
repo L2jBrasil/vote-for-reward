@@ -8,7 +8,7 @@ To download all dependencies you should install [composer](https://getcomposer.o
 
 ```
 git clone https://github.com/L2jBrasil/vote-for-reward.git
-cd fiware-orion-explorer
+cd vote-for-reward
 composer install --no-dev
 npm install
 npm install bower -g
