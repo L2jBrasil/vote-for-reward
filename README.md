@@ -2,7 +2,7 @@
 =============================
 
 [en]
-It's under development, please use https://github.com/L2jBrasil/icpn-votesystem instead.
+It's under development, please use https://github.com/L2jBrasil/icpn-votesystem instead.  
 [pt]
 Ainda estamos desenvolvento isto, por favor utilize o https://github.com/L2jBrasil/icpn-votesystem enquanto isso.
 
