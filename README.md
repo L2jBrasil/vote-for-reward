@@ -1,7 +1,10 @@
 # Vote For Reward
 =============================
 
-
+[en]
+It's under development, please use https://github.com/L2jBrasil/icpn-votesystem instead.
+[pt]
+Ainda estamos desenvolvento isto, por favor utilize o https://github.com/L2jBrasil/icpn-votesystem enquanto isso.
 
 ### Running:
 To download all dependencies you should install [composer](https://getcomposer.org/), [Node(npm)](https://nodejs.org/en/download/) and [Bower](https://bower.io/#install-bower).
